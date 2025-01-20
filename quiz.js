@@ -19,3 +19,4 @@ function checkAnswer() {
 // Add event listener to the Submit Answer button
 document.getElementById('submit-answer').addEventListener('click', checkAnswer);
 
+
